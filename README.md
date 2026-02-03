@@ -55,3 +55,15 @@ If you build upon or reference this work in academic writing, please cite the fo
   year={2024},
   url={https://arxiv.org/abs/23XX.XXXXX}
 }
+
+## 🧑‍🔬 Core Researcher
+
+*   **[Tu Nombre Completo]** – Independent Researcher | Psychologist.
+*   Contact: [tu.email@example.com] | [https://www.linkedin.com/in/tuperfil/](https://www.linkedin.com/in/tuperfil/)
+
+## 📄 License
+
+This foundational research is shared under the **MIT License** (see [LICENSE](LICENSE) file). We encourage open use, modification, and distribution to advance the science of artificial societies.
+
+---
+*This project is the first step in building a scientific lens to observe, understand, and nurture the emerging societies of artificial minds.*
